@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BruteForcePasswordCracker implements PassWordCracker {
 
 
-   
+   cette méthode 
     public void loop(int index, String passWord, StringBuilder caractere) {
         for (int i = 97; i < 97 + 26; i++) {
             caractere.setCharAt(index, (char) i);

@@ -99,3 +99,8 @@ tonnerre
 tailleur
 matrice
 hello
+password123
+password
+letmein
+hello
+secret
